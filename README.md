@@ -29,17 +29,20 @@ HEATZY将通过整合最新的技术，如编程，机器学习和与Google Home
 ![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/下载.png)
 * 控制产品(Control product&product group)：此页面是产品详情页，为展示所有产品和产品组，并对其进行控制；
 
-![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/控制产品.png)
+![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/控制产品.png)<br>
      A. 单个产品控制
       
 ![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/单个产品.png)
+
      B. 分组控制
       
 ![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/产品组.png)
-      需要首先经过建立分组才可进行统一控制，在完成分组后，可根据需要添加产品。
+
+      需要首先经过建立分组才可进行统一控制，在完成分组后，可根据需要添加产品。<br>
       a. 新建分组
       
 ![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/新建分组.png)
+
       b. 添加产品
       
 ![](https://github.com/JoJoDU/web-platform-for-IoT/raw/master/image/添加产品.png)
