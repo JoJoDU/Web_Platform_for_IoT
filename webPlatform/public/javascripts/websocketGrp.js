@@ -6,7 +6,7 @@ function DeviceGrp(uid,token){  //create an object to device
     this.onError = undefined;
 
     
-    this._appId = "c70a66ff039d41b4a220e198b0fcc8b3";
+    this._appId = "c70a66ff039d41b4a220e198b0fcc8**";
     
     
     this._apiHost = 'euapi.gizwits.com';

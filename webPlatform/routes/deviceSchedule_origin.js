@@ -40,7 +40,7 @@ router.get('/', function (req, res) {
         var jsonLog = {
             cmd: "login_req",
             data: {
-            appid: "c70a66ff039d41b4a220e198b0fcc8b3",
+            appid: "c70a66ff039d41b4a220e198b0fcc8**",
             uid: uid,
             token: token,
             p0_type: "attrs_v4",

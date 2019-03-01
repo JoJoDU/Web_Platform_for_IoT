@@ -366,7 +366,7 @@ function getDevicesList(token) {
                     responseDevice.push(device.devices[d]);
                 }
                 for (var a=0;a<responseDevice.length; a++) {
-                    if (responseDevice[a].product_key == ("4fc968a21e7243b390e9ede6f1c6465d")|responseDevice[a].product_key == ("51d16c22a5f74280bc3cfe9ebcdc6402")){
+                    if (responseDevice[a].product_key == ("4fc968a21e7243b390e9ede6f1c646**")|responseDevice[a].product_key == ("51d16c22a5f74280bc3cfe9ebcdc64**")){
                         //console.log(responseDevice[a]);
                         deviceSelect.push(responseDevice[a]);
                     }

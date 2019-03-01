@@ -44,7 +44,7 @@ function scheduleOff(ev){
             }
         };
         
-        request.setRequestHeader("X-Gizwits-Application-Id","c70a66ff039d41b4a220e198b0fcc8b3");
+        request.setRequestHeader("X-Gizwits-Application-Id","c70a66ff039d41b4a220e198b0fcc8**");
         request.setRequestHeader("X-Gizwits-User-token",token);
         request.setRequestHeader('Content-Type', 'application/json')
         // 这里的send()方法接收一个参数，即要作为请求主体发送的数据。如果不需要通过请求主体发送数据，则必须传入null，因为这个参数对有些浏览器来说是必需的。调用send()之后，请求就会被分派到服务器。
@@ -85,7 +85,7 @@ function scheduleOn(ev){
             }
         };
         
-        request.setRequestHeader("X-Gizwits-Application-Id","c70a66ff039d41b4a220e198b0fcc8b3");
+        request.setRequestHeader("X-Gizwits-Application-Id","c70a66ff039d41b4a220e198b0fcc8**");
         request.setRequestHeader("X-Gizwits-User-token",token);
         request.setRequestHeader('Content-Type', 'application/json')
         // 这里的send()方法接收一个参数，即要作为请求主体发送的数据。如果不需要通过请求主体发送数据，则必须传入null，因为这个参数对有些浏览器来说是必需的。调用send()之后，请求就会被分派到服务器。
